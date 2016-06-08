@@ -1,0 +1,8 @@
+<html>
+ <head>
+  <title>John's PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World< :P /p>'; ?> 
+ </body>
+</html>
